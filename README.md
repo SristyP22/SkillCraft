@@ -4,6 +4,23 @@ SkillCraft Projects
 General Instructions:
 Make sure to have Python installed on your system.
 
+## Temperature Converter
+
+## Description
+This Python program allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It supports bidirectional conversions between all three scales.
+
+## Features
+- Convert Celsius to Fahrenheit and Kelvin.
+- Convert Fahrenheit to Celsius and Kelvin.
+- Convert Kelvin to Celsius and Fahrenheit.
+
+## How To Use
+- Clone the repository.
+- Follow the on-screen instructions to select the  conversion type and input the temperature value.
+## Technology Used
+- Python: This project uses Python as the programming language to implement the temperature conversion logic.
+- Basic I/O: The program uses standard input/output to interact with the user, allowing them to input the temperature and select the conversion type.
+  
 1. Temperature Converter
 Description-
 This Python program allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It supports bidirectional conversions between all three scales.
